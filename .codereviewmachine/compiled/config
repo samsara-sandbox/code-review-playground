@@ -1,1 +1,1 @@
-[{"owners":["samsara-sandbox/test-team"],"slug": "root", "path":""},{"owners":["stephen"],"path":"folder/", "description": "@stephen really cares about this directory."}]
+[{"owners":["samsara-sandbox/test-team"],"slug": "root", "path":""},{"owners":["stephen"],"path":"folder/", "slug": "terraform", "description": "See: https://paper.dropbox.com/doc/Terraform-Best-Practices-ThAlW9bUtuCIqtW57F7fN"}]
