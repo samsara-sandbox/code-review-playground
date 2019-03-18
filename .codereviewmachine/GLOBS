@@ -1,0 +1,6 @@
+[
+  {
+    "glob": "**/CODEREVIEW",
+    "owners": ["stephen"]
+  }
+]
