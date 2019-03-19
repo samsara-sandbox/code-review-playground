@@ -1,6 +1,2 @@
 [
-  {
-    "glob": "**/CODEREVIEW",
-    "owners": ["stephen"]
-  }
 ]
