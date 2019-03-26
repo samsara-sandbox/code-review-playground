@@ -1,6 +1,7 @@
 [
   {
     "glob": "**/CODEREVIEW",
-    "owners": ["stephen"]
+    "owners": ["stephen"],
+    "description": "test desc"
   }
 ]
